@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação**
+- 🎓 Estudante de **Engenharia da Computação na FACENS (Faculdade de Engenharia de Sorocaba)**
 - 💡 Foco em **programação fullstack** com projetos em:
   - **Vue.js**, **NestJS**, **Node.js**
   - **ESP32**, **Raspberry Pi Pico W**
