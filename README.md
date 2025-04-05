@@ -1,7 +1,7 @@
-<h1 align="center">Olá! 👋 Eu sou o [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Eu sou o Gustavo Champam</h1>
 
 <p align="center">
-  Estudante e desenvolvedor apaixonado por tecnologia, programação e soluções criativas.  
+  Estudante de Engenharia da Computação e desenvolvedor apaixonado por tecnologia, programação e soluções criativas.  
   Sempre explorando novas ferramentas e construindo projetos reais. 🚀
 </p>
 
@@ -13,8 +13,8 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante da área de **Tecnologia da Informação**
-- 💡 Foco em **programação fullstack** com projetos em **Vue.js**, **NestJS**, **ESP32**, **Raspberry Pi Pico W**
+- 🎓 Estudante da área de **Engenharia da Computação**
+- 💡 Foco em **programação fullstack** com projetos em **Vue.js**, **NestJS**, **ESP32**, **Raspberry Pi Pico W, HTML, CSS, JavaScript e Python**
 - 🛠️ Sempre aprendendo sobre **estruturas de dados**, **sistemas embarcados** e boas práticas de código
 - 🎯 Buscando oportunidades para aplicar e evoluir minhas habilidades em projetos reais
 - 💬 Gosto de compartilhar conhecimento e ajudar outros devs na jornada
@@ -51,12 +51,6 @@
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
-- 📸 [Instagram de projetos](https://instagram.com/seu-usuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-gutierres-champam-359b45209/)
+- 📸 [Instagram de projetos]([https://instagram.com/seu-usuario](https://www.instagram.com/guuh.champam?igsh=MXYzb3Vxcmg1MW9lZA%3D%3D&utm_source=qr))
 - ✉️ seu.email@exemplo.com
-
----
-
-<p align="center">
-  Feito com ❤️ por [Seu Nome]
-</p>
