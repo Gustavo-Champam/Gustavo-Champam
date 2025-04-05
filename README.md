@@ -58,5 +58,5 @@
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-gutierres-champam-359b45209/)
-- 📸 [Instagram de projetos](https://www.instagram.com/guuh.champam/)
+- 📸 [Instagram](https://www.instagram.com/guuh.champam/)
 - ✉️ guti.gustavo10@gmail.com
