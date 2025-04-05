@@ -38,7 +38,8 @@
 - 🔗 [Página Informativa Porto Feliz](https://github.com/GustavoChampam0/PortoFeliz.github.io)
 - 🔗 [Meu Portifólio](https://github.com/GustavoChampam0/PortifolioGustavo.github.io)
 
-> Explore meus repositórios para ver mais 💼
+> [Explore meus repositórios para ver mais 💼 ]([https://github.com/GustavoChampam0/PortifolioGustavo.github.io)
+
 
 ---
 
