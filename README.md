@@ -59,4 +59,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-gutierres-champam-359b45209/)
 - 📸 [Instagram de projetos](https://www.instagram.com/guuh.champam/)
-- ✉️ gustavo.seuemail@email.com *(substitua pelo seu real)*
+- ✉️ guti.gustavo10@gmail.com
