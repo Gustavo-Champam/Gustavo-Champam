@@ -5,10 +5,6 @@
   Sempre explorando novas ferramentas e construindo projetos reais. 🚀
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GustavoChampam0&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="GustavoChampam0" />
-</div>
-
 ---
 
 ## 🧠 Sobre mim
