@@ -1,23 +1,26 @@
 <h1 align="center">Olá! 👋 Eu sou o Gustavo Champam</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação e desenvolvedor apaixonado por tecnologia, programação e soluções criativas.  
+  Estudante de Engenharia da Computação e desenvolvedor apaixonado por tecnologia, programação e soluções criativas.<br>
   Sempre explorando novas ferramentas e construindo projetos reais. 🚀
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="seu-usuario" />
+  <img src="https://komarev.com/ghpvc/?username=GustavoChampam0&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="GustavoChampam0" />
 </div>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante da área de **Engenharia da Computação**
-- 💡 Foco em **programação fullstack** com projetos em **Vue.js**, **NestJS**, **ESP32**, **Raspberry Pi Pico W, HTML, CSS, JavaScript e Python**
-- 🛠️ Sempre aprendendo sobre **estruturas de dados**, **sistemas embarcados** e boas práticas de código
-- 🎯 Buscando oportunidades para aplicar e evoluir minhas habilidades em projetos reais
-- 💬 Gosto de compartilhar conhecimento e ajudar outros devs na jornada
+- 🎓 Estudante de **Engenharia da Computação**
+- 💡 Foco em **programação fullstack** com projetos em:
+  - **Vue.js**, **NestJS**, **Node.js**
+  - **ESP32**, **Raspberry Pi Pico W**
+  - **HTML**, **CSS**, **JavaScript**, **Python**
+- 📚 Estudando **estruturas de dados**, **Desenvolvimento Web** e **boas práticas de desenvolvimento**
+- 🎯 Buscando aplicar meus conhecimentos em projetos do mundo real
+- 🤝 Gosto de compartilhar conhecimento e colaborar com outros devs
 
 ---
 
@@ -31,10 +34,13 @@
 
 ## 🛠️ Projetos em destaque
 
-- 🔗 **Sistema de certificados em Node/NestJS**
-- 🔗 **Portfólio para jornalista com layout responsivo e interativo**
-- 🔗 **Dashboard com ESP32 e sensores físicos integrados**
-- 🔗 **Página romântica com contador de tempo de namoro, carrossel de fotos e efeitos visuais**
+- 🔗 [Monitoramento de Maquinas usando IOT](https://github.com/GustavoChampam0/Monitoramento-de-Maquinas)
+- 🔗 [Portfólio para jornalista com layout responsivo](https://github.com/GustavoChampam0/LarissaPortifolio.github.io)
+- 🔗 [Página romântica com contador e efeitos visuais](https://github.com/GustavoChampam0/Contador.github.io)
+- 🔗 [Página Bazzo](https://github.com/GustavoChampam0/BazzoFinal.github.io)
+- 🔗 [Página Acadêmica para faculdade](https://github.com/GustavoChampam0/Proibi-oCelular.github.io)
+- 🔗 [Página Informativa Porto Feliz](https://github.com/GustavoChampam0/PortoFeliz.github.io)
+- 🔗 [Meu Portifólio](https://github.com/GustavoChampam0/PortifolioGustavo.github.io)
 
 > Explore meus repositórios para ver mais 💼
 
@@ -43,8 +49,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoChampam0&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoChampam0&layout=compact&langs_count=8"/>
 </div>
 
 ---
@@ -52,5 +58,5 @@
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-gutierres-champam-359b45209/)
-- 📸 [Instagram de projetos]([https://instagram.com/seu-usuario](https://www.instagram.com/guuh.champam?igsh=MXYzb3Vxcmg1MW9lZA%3D%3D&utm_source=qr))
-- ✉️ seu.email@exemplo.com
+- 📸 [Instagram de projetos](https://www.instagram.com/guuh.champam/)
+- ✉️ gustavo.seuemail@email.com *(substitua pelo seu real)*
