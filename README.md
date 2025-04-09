@@ -11,9 +11,9 @@
 
 - 🎓 Estudante de **Engenharia da Computação na FACENS (Faculdade de Engenharia de Sorocaba)**
 - 💡 Foco em **programação fullstack** com projetos em:
-  - **Vue.js**, **NestJS**, **Node.js**
-  - **ESP32**, **Raspberry Pi Pico W**
-  - **HTML**, **CSS**, **JavaScript**, **Python**
+  - **Java**, **MySQL**, **Python**
+  - **HTML**, **CSS**, **JavaScript**
+  - **C para sistemas embarcados**
 - 📚 Estudando **estruturas de dados**, **Desenvolvimento Web** e **boas práticas de desenvolvimento**
 - 🎯 Buscando aplicar meus conhecimentos em projetos do mundo real
 - 🤝 Gosto de compartilhar conhecimento e colaborar com outros devs
@@ -23,7 +23,7 @@
 ## 💻 Tecnologias que utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nestjs,nodejs,cpp,python,git,linux,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,c,git,linux" />
 </div>
 
 ---
