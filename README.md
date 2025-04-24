@@ -23,7 +23,7 @@
 ##  Tecnologias que utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,c,react,nextjs,angular,astro,git,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,c,react,nextjs,angular,astro,git,linux" />
 </div>
 
 
